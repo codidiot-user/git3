@@ -1,0 +1,24 @@
+1- open cmd and type "git"
+2- type-> git config -global user.name "user name of github"
+3- type-> git config -global user.email "user email of github"
+4- create one folder in local machine
+5- open vs and open corresponding folder
+6- copy url from your current repo's and open terminal in vs 
+7- type-> git clone paste it
+8- then the repo will import in your local machine
+9- create new folder in your local and it shows "U" #it means untracked
+10- we need to add type-> git add name of the folder which you created
+11- now commit the changes and added folder to your to current repo
+12- to commit type-> git commit -m "commit message you must give in double quotation"
+13- now push the folder type-> git push origin machine
+14- now refresh the site to see changes in the repo
+15- to change all untracked file to staging area type-> git add .
+
+# creating a new repo in local machine and show new repo in your github account
+#change the directory of the folder for that ->cd ..
+1- create new folder in local machine and open in vs also create a new sub-folder in vs 
+2- now create a new repo in the stage of creating or upload a folder page 
+3- there copy the corresponding url and type-> git remote add origin url
+4- type-> git branch and shows *master it must be change to *main for that type-> git branch -m main 
+5- it change to *main branch to check it type-> git branch
+6- then follow the above steps 
