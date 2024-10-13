@@ -22,3 +22,9 @@
 4- type-> git branch and shows *master it must be change to *main for that type-> git branch -m main 
 5- it change to *main branch to check it type-> git branch
 6- then follow the above steps 
+#other condition
+1- create new branch in your github
+2- type branch -a it shows all branchs under your main 
+3- to change from main to created branch type-> git checkout branch name
+4- now you can do or createa file as per above condition
+5- change to main branch type same command 
