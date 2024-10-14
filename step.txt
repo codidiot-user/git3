@@ -16,6 +16,7 @@
 
 # creating a new repo in local machine and show new repo in your github account
 #change the directory of the folder for that ->cd ..
+#### create a new folder and make new file and type ->git init to initialize a git repo's
 1- create new folder in local machine and open in vs also create a new sub-folder in vs 
 2- now create a new repo in the stage of creating or upload a folder page 
 3- there copy the corresponding url and type-> git remote add origin url
