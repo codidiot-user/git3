@@ -1,6 +1,6 @@
 1- open cmd and type "git"
-2- type-> git config -global user.name "user name of github"
-3- type-> git config -global user.email "user email of github"
+2- type-> git config --global user.name "user name of github"
+3- type-> git config --global user.email "user email of github"
 4- create one folder in local machine
 5- open vs and open corresponding folder
 6- copy url from your current repo's and open terminal in vs 
